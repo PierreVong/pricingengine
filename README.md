@@ -4,7 +4,7 @@ A production-quality option pricing engine implementing stochastic calculus, PDE
 
 ## 🎯 Project Overview
 
-This MFE capstone project addresses the fundamental question: **How do different mathematical pricing methods compare in accuracy, speed, and risk sensitivity?**
+This project addresses the fundamental question: **How do different mathematical pricing methods compare in accuracy, speed, and risk sensitivity?**
 
 ### Key Features
 
@@ -257,8 +257,9 @@ This project is for educational purposes. See LICENSE for details.
 
 ## 👤 Author
 
-MFE Capstone Project
+Pierre Vong
 
 ---
 
 **Keywords:** quantitative finance, option pricing, Black-Scholes, PDE, Monte Carlo, Greeks, VaR, CVaR, risk management, derivatives, numerical methods, stochastic calculus
+
